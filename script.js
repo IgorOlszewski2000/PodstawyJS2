@@ -11,4 +11,4 @@ console.log(tekst + " " + liczba + " " + imie);
 // Pobieranie wartości od użytkownika
 
 const nazwa = prompt("Podaj imie: ");
-
+alert("Dzień dobry " + nazwa);
